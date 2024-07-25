@@ -1,4 +1,4 @@
-## Merhaba 👋
+##                                                                                                                      Hi 👋 I'm Niyazi Kabakçı 
 
 <!--
 **niyazikbkc/niyazikbkc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
